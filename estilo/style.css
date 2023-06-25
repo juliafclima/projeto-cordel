@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
 :root {
-    ---fonte01: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte01: Verdana, Geneva, Tahoma, sans-serif;
     --fonte02: 'Passion One', cursive; /* título */
     --fonte03: 'Sriracha', cursive; /* conteúdo */
 }
